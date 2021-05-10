@@ -1,0 +1,67 @@
+.parallax {
+    /*definir a imagen como back ground*/
+    background-image: url(./back_ground.jpeg);
+    /*definir o tamanho da visao do usuario*/
+    
+    /* defina o background como fixo e posicione a imagem */
+    background-attachment: fixed;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+
+}
+
+h1 {
+    margin-left: 790px;
+    margin-right: 0px;
+    border: none;
+    color: white;
+}
+
+p {
+    margin-left: 600px;
+    margin-right: 0px;
+    border: none;
+    color: white;
+    font-size: 30px;
+   
+}
+
+.text-main {
+    margin-left: 400px;
+    margin-right: 0px;
+    border: none;
+    font-size: 20px;
+    color: black;
+    
+    
+}
+
+.end-title {
+    font-size: 30px;
+    color: black;
+    margin-left: 700px;
+}
+
+.end {
+    background-image: url(./ground-end2.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+.endti{
+
+}
+.endt {
+    margin-left: 300px;
+}
+
+.main {
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
